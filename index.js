@@ -13,7 +13,7 @@ Const Astral.dev = require('astral@dev');
 Handlers.install;
 Config.handlers = instance('handlers.json');
 Astral.restart.error
-Instance.on ///handler (config dans le config.json)
+Instance.on ///handler (config dans le handlers.json)
 
 [
   Nom: "ping",
