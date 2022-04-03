@@ -9,7 +9,11 @@ const bot = [
 
 bot.active.key ///Test la key d'activation
 
-Command.handler.on = require('./commands');
+Const Astral.dev = require('astral@dev');
+Handlers.install;
+Config.handlers = instance('handlers.json');
+Astral.restart.error
+Instance.on ///handler (config dans le config.json)
 
 [
   Nom: "ping",
