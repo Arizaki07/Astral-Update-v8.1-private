@@ -1,0 +1,6 @@
+{
+    "Handlers": "./commandes",
+    "Key": "Aucune",
+    "Plugins": "Install  //Séparer les plugins d'une virgule (plugin dispo sur le site)"
+
+}

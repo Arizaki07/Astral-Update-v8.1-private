@@ -1,0 +1,4 @@
+{
+    "Help": "./commandes/help.js",
+    "Config": "./commandes/config.js"
+}
